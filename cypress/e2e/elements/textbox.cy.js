@@ -16,4 +16,4 @@ describe('Text Box spec test',() =>{
     cy.contains('permanent address 456').should('be.visible')
   })
 
-}) 
+})  
