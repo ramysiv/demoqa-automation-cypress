@@ -14,6 +14,8 @@ The goal of this project is to automate various UI components of the DemoQA site
 * **Reporting:** Mochawesome
 * **CI/CD:** GitHub Actions (Ready for configuration)
 
+
+
 ## 📁 Project Structure
 
 ```plaintext
