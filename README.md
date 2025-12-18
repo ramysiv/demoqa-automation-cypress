@@ -26,7 +26,7 @@ Node.js (v14 or higher)
 
 npm or yarn
 
-##📥 Installation
+## 📥 Installation
 
 Clone the repository:
 
@@ -41,7 +41,7 @@ Bash
 npm install
 
 
-##🏃 Running Tests
+## 🏃 Running Tests
 You can run the tests in different modes:
 
 Interactive Mode (Cypress Runner)
@@ -67,7 +67,7 @@ Location: cypress/reports/html/index.html
 
 Features: The report includes screenshots of failures, execution time, and detailed stack traces.
 
-##🔮 Roadmap & Future Improvements
+## 🔮 Roadmap & Future Improvements
 
 To further enhance the framework's efficiency and maintainability, the following improvements are planned:
 
@@ -75,7 +75,7 @@ API Data Seeding (cy.request): Implement API requests to programmatically create
 
 Expanded Custom Commands: Refactor more repetitive code blocks into distinct Custom Commands. This will result in even cleaner e2e spec files and better readability.
 
-##🧠 Key Features Implemented
+## 🧠 Key Features Implemented
 
 Page Object Model (POM): Decouples test logic from UI locators.
 
@@ -95,4 +95,3 @@ Handling Sync/Async: Robust wait strategies using cypress-wait-until.
 │   └── support      # Custom commands & plugin configuration
 ├── cypress.config.js # Cypress configuration
 └── package.json      # Project dependencies and scripts
-
