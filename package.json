@@ -13,9 +13,14 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.3.1",
     "cypress": "^15.8.0",
     "cypress-mochawesome-reporter": "^4.0.2",
     "cypress-multi-reporters": "^2.0.5",
+    "cypress-wait-until": "^3.0.2",
     "mocha-junit-reporter": "^2.2.1"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.15.0"
   }
 }
